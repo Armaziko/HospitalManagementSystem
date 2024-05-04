@@ -1,0 +1,52 @@
+{
+    "hospitals":[
+    {
+        "name":"German Hospital",
+        "doctors":["Armaz Armazikauri", "John Doe", "Jane Ditler"], 
+
+        "patients":[
+            {
+                "name":"Armaziko",
+                "id_number":"546657768",
+                "patient_expenditure":"1920.99"
+            },
+            {
+              "name": "Valery",
+              "id_number": "527699032",
+              "patient_expenditure": "1760.99"
+            },
+            {
+              "name": "Varys",
+              "id_number": "407407407",
+              "patient_expenditure": "407.407"
+            }
+        ],
+
+        "beds_available":"39"
+    },
+    {
+        "name":"American Hospital",
+        "doctors":["John Armazikauri", "Fillip Doe", "Kate Smith"],
+
+      "patients": [
+        {
+          "name": "Gregory",
+          "id_number": "516238921",
+          "patient_expenditure": "2310.99"
+        },
+        {
+          "name": "Valery",
+          "id_number": "526466760",
+          "patient_expenditure": "1299.99"
+        },
+        {
+          "name": "Gregory",
+          "id_number": "501488463",
+          "patient_expenditure": "1600.99"
+        }
+      ],
+
+        "beds_available":"102"
+    }
+    ]
+}
